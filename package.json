@@ -1,0 +1,19 @@
+{
+  "name": "statelesscoupons",
+  "description": "Generate and parse short coupon codes, so they're SMS-friendly. No server state required.",
+  "keywords": ["coupons", "coupon codes"],
+  "homepage": "https://51moments.com/resources/node",
+  "bugs": {
+    "url": "https://github.com/51moments/statelesscoupons/issues",
+    "email": "hello@51moments.com"
+  },
+  "author": "51 Moments <hello@51moments.com> (https://51moments.com)",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": ["index.js"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/51moments/statelesscoupons.git"
+  }
+}
